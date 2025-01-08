@@ -33,6 +33,7 @@ How to Run
 Clone the repository:
 
 git clone https://github.com/hasan-khambaty/Robot-shooting-game
+
 cd Robot-shooting-game
 
 Compile the program:
